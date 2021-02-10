@@ -15,5 +15,5 @@
 	- proc_code      : Procedure code                                                                 
 	- proc_code_type : Procedure Code type (HCPCS, CPT, ICD10, etc.)                                  
 	- risk_score     : Provider's risk score (provider's likelihood that procedure code is erroneous) 
- - Reference file: sample.out	
+ - Reference file: sample.zip.out	
 	
